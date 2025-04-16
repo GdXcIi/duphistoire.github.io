@@ -14,6 +14,6 @@ https://drive.google.com/file/d/1D67F68nkO0v_MGdpaStyIxPyqIHIVUNj/view?usp=drive
 
 ## Et pour nos chers utilisateurs iOS
 Nous ne vous avons pazs oublié, chers utilisateurs iOS ! Il nous manque simplement un petit d'argent pour distribuer l'application iOS (genre 99€/an...) !
-Alors à tous ceux qui ont un peu trop d'argent dans leur porte monnaie, nous, on prend volontier !
+Alors à tous ceux qui ont un peu trop d'argent dans leur porte monnaie, nous, on prend volontier ! Voilà le lien : https://donate.stripe.com/test_eVabLU6pH8nGdsk000
 
 Merci à tous ceux qui feront des donts !
